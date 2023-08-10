@@ -6,7 +6,8 @@
   "scripts": {
     "start": "gulp watch",
     "build": "gulp build",
-    "lint": "eslint components"
+    "lint": "eslint components",
+    "email": "email dev --dir "
   },
   "author": "",
   "license": "ISC",
